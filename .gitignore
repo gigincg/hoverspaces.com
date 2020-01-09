@@ -5,3 +5,12 @@ npm-debug.log
 /lib/bs/
 /node_modules/
 /bundleOutput/
+
+
+# Ignore these associated with reason-react and bsb
+.merlin
+lib/bs/
+npm-debug.log
+.DS_Store
+.bsb.lock
+*.bs.js

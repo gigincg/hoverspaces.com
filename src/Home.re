@@ -9,7 +9,7 @@ let make = () =>
       <div className="px-6 py-4">
         <div className="font-bold text-xl mb-2"> {"Hover Spaces" |> str} </div>
         <p className="text-gray-700 text-base">
-          {"We are under getting stuff ready for you!" |> str}
+          {"We are getting stuff ready for you!" |> str}
         </p>
       </div>
       <div className="px-6 py-4">
